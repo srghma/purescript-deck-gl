@@ -7,7 +7,7 @@
   },
   "dependencies": {
     "react": "^16.0.0",
-    "deck.gl": "^5.1.1"
+    "deck.gl": "^6.2.3"
   },
   "devDependencies": {
     "bower": "^1.8.2",

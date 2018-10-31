@@ -27,7 +27,7 @@ You can see some examples in `example` directory. It is also hosted [here](https
 
 ## npm requirements
 - react >= 16.0.0
-- deck.gl >= 5.1.1"
+- deck.gl >= 6.2.3"
 
 
 ## acknowledgements
